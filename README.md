@@ -1,1 +1,1 @@
-We implement a simple quantum gate simulator for single qubit and single control gates using python from scratch. The big indian convention is used.
+We implement a simple quantum gate simulator for single-qubit and single control gates using python from scratch. The big Indian convention is being used. Then we use the simulator to implementing some simple quantum circuits and finding the optimal parameters of a variational quantum circuit.
